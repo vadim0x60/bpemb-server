@@ -1,0 +1,5 @@
+Flask==0.12.2
+flask-API==1.0
+sentencepiece==0.1.2
+gensim==3.4.0
+gunicorn==19.9.0
